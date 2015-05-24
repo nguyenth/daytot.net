@@ -1,0 +1,62 @@
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.bll.dll.config
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.bll.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.bll.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.core.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.dal.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\EntityFramework.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\StructureMap.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\log4net.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.core.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.dal.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\EntityFramework.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\StructureMap.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\StructureMap.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\log4net.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\obj\Debug\daytot.bll.csprojResolveAssemblyReference.cache
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\obj\Debug\daytot.bll.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.bll\obj\Debug\daytot.bll.pdb
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.bll.dll.config
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.bll.dll
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.bll.pdb
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.core.dll
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.dal.dll
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\EntityFramework.dll
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\StructureMap.dll
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\log4net.dll
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\Newtonsoft.Json.dll
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.core.pdb
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.dal.pdb
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\EntityFramework.xml
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\StructureMap.pdb
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\StructureMap.xml
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\log4net.xml
+D:\projects\mine\daytot.net\daytot.bll\bin\Debug\Newtonsoft.Json.xml
+D:\projects\mine\daytot.net\daytot.bll\obj\Debug\daytot.bll.csprojResolveAssemblyReference.cache
+D:\projects\mine\daytot.net\daytot.bll\obj\Debug\daytot.bll.dll
+D:\projects\mine\daytot.net\daytot.bll\obj\Debug\daytot.bll.pdb
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.bll.dll.config
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.bll.dll
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.bll.pdb
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.core.dll
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.dal.dll
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\EntityFramework.dll
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\EntityFramework.SqlServer.dll
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\StructureMap.dll
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\Enyim.Caching.dll
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\log4net.dll
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\Newtonsoft.Json.dll
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.core.pdb
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\daytot.dal.pdb
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\EntityFramework.xml
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\EntityFramework.SqlServer.xml
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\StructureMap.pdb
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\StructureMap.xml
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\Enyim.Caching.pdb
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\Enyim.Caching.xml
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\log4net.xml
+E:\projects\mine\daytot.net\daytot.bll\bin\Debug\Newtonsoft.Json.xml
+E:\projects\mine\daytot.net\daytot.bll\obj\Debug\daytot.bll.csprojResolveAssemblyReference.cache
+E:\projects\mine\daytot.net\daytot.bll\obj\Debug\daytot.bll.dll
+E:\projects\mine\daytot.net\daytot.bll\obj\Debug\daytot.bll.pdb

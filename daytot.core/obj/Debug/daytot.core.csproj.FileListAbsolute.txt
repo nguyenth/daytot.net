@@ -1,0 +1,54 @@
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.resources.Messages.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.resources.Models.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.resources.Validations.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.csproj.GenerateResource.Cache
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\bin\Debug\daytot.core.dll.config
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\bin\Debug\daytot.core.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\bin\Debug\daytot.core.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\bin\Debug\log4net.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\bin\Debug\StructureMap.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\bin\Debug\log4net.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\bin\Debug\StructureMap.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\bin\Debug\StructureMap.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.csprojResolveAssemblyReference.cache
+D:\projects\mine\daytot.net\daytot.core\bin\Debug\daytot.core.dll.config
+D:\projects\mine\daytot.net\daytot.core\bin\Debug\daytot.core.dll
+D:\projects\mine\daytot.net\daytot.core\bin\Debug\daytot.core.pdb
+D:\projects\mine\daytot.net\daytot.core\bin\Debug\log4net.dll
+D:\projects\mine\daytot.net\daytot.core\bin\Debug\Newtonsoft.Json.dll
+D:\projects\mine\daytot.net\daytot.core\bin\Debug\StructureMap.dll
+D:\projects\mine\daytot.net\daytot.core\bin\Debug\log4net.xml
+D:\projects\mine\daytot.net\daytot.core\bin\Debug\Newtonsoft.Json.xml
+D:\projects\mine\daytot.net\daytot.core\bin\Debug\StructureMap.pdb
+D:\projects\mine\daytot.net\daytot.core\bin\Debug\StructureMap.xml
+D:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.csprojResolveAssemblyReference.cache
+D:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.resources.Messages.resources
+D:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.resources.Models.resources
+D:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.resources.Validations.resources
+D:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.csproj.GenerateResource.Cache
+D:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.dll
+D:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.pdb
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\daytot.core.dll.config
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\daytot.core.dll
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\daytot.core.pdb
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\Enyim.Caching.dll
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\log4net.dll
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\Newtonsoft.Json.dll
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\StructureMap.dll
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\Enyim.Caching.pdb
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\Enyim.Caching.xml
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\log4net.xml
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\Newtonsoft.Json.xml
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\StructureMap.pdb
+E:\projects\mine\daytot.net\daytot.core\bin\Debug\StructureMap.xml
+E:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.csprojResolveAssemblyReference.cache
+E:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.resources.Messages.resources
+E:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.resources.Models.resources
+E:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.resources.Validations.resources
+E:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.csproj.GenerateResource.Cache
+E:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.dll
+E:\projects\mine\daytot.net\daytot.core\obj\Debug\daytot.core.pdb

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6B427D83-B321-4DE7-81D1-1168EF3D47D5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>daytot.bll</RootNamespace>
+    <AssemblyName>daytot.bll</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.0.2\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.2\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap">
+      <HintPath>..\packages\structuremap.2.6.4.1\lib\net40\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="helpers\IRepositoryProvider.cs" />
+    <Compile Include="helpers\PredicateBuilder.cs" />
+    <Compile Include="helpers\RepositoryFactories.cs" />
+    <Compile Include="helpers\RepositoryProvider.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="repositories\AnswerRepository.cs" />
+    <Compile Include="repositories\AskRepository.cs" />
+    <Compile Include="repositories\BaseRepository.cs" />
+    <Compile Include="repositories\CourseRepository.cs" />
+    <Compile Include="repositories\EnrollmentRepository.cs" />
+    <Compile Include="repositories\FavoriteRepository.cs" />
+    <Compile Include="repositories\HintRepository.cs" />
+    <Compile Include="repositories\LearnActivityRepository.cs" />
+    <Compile Include="repositories\LectureRepository.cs" />
+    <Compile Include="repositories\MediaRepository.cs" />
+    <Compile Include="repositories\MediaServerRepository.cs" />
+    <Compile Include="repositories\QuestionRepository.cs" />
+    <Compile Include="repositories\QuizActivityRepository.cs" />
+    <Compile Include="repositories\QuizDetailRepository.cs" />
+    <Compile Include="repositories\QuizRepository.cs" />
+    <Compile Include="repositories\ReplyRepository.cs" />
+    <Compile Include="repositories\SectionRepository.cs" />
+    <Compile Include="repositories\TopicRepository.cs" />
+    <Compile Include="repositories\UserRepository.cs" />
+    <Compile Include="Uow.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\daytot.core\daytot.core.csproj">
+      <Project>{f0320f97-1739-4c1a-84e4-e76641719d10}</Project>
+      <Name>daytot.core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\daytot.dal\daytot.dal.csproj">
+      <Project>{5a208704-026b-4f9b-b77f-43ad4c699abf}</Project>
+      <Name>daytot.dal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

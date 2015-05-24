@@ -1,0 +1,95 @@
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.csprojResolveAssemblyReference.cache
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext1.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext2.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext3.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext4.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext5.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext6.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext7.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext8.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext9.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext10.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext11.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext12.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext13.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext14.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext15.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext16.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.csproj.GenerateResource.Cache
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.dal.dll.config
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.dal.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.dal.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.core.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\EntityFramework.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\log4net.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\StructureMap.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.core.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\EntityFramework.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\log4net.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\StructureMap.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\StructureMap.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.dll
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.pdb
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext17.resources
+C:\Users\nguyen.tran\My Projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext18.resources
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.dal.dll.config
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.dal.dll
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.dal.pdb
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.core.dll
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\EntityFramework.dll
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\log4net.dll
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\StructureMap.dll
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\Newtonsoft.Json.dll
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.core.pdb
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\EntityFramework.xml
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\log4net.xml
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\StructureMap.pdb
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\StructureMap.xml
+D:\projects\mine\daytot.net\daytot.dal\bin\Debug\Newtonsoft.Json.xml
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.csprojResolveAssemblyReference.cache
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext1.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext2.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext3.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext4.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext5.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext6.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext7.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext8.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext9.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext10.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext11.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext12.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext13.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext14.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext15.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext16.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext17.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext18.resources
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.csproj.GenerateResource.Cache
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.dll
+D:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.pdb
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.dal.dll.config
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.dal.dll
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.dal.pdb
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.core.dll
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\EntityFramework.dll
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\Enyim.Caching.dll
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\log4net.dll
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\Newtonsoft.Json.dll
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\daytot.core.pdb
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\EntityFramework.xml
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\Enyim.Caching.pdb
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\Enyim.Caching.xml
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\log4net.xml
+E:\projects\mine\daytot.net\daytot.dal\bin\Debug\Newtonsoft.Json.xml
+E:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.csprojResolveAssemblyReference.cache
+E:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.dll
+E:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.pdb
+E:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.Migrations.DaytotDbContext.resources
+E:\projects\mine\daytot.net\daytot.dal\obj\Debug\daytot.dal.csproj.GenerateResource.Cache
